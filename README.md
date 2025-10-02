@@ -4,11 +4,7 @@
 
 # Technologies used
 
-- HTML5
-- CSS3
-- Sass(SCSS)
-- BEM methodology
-- JavaScript
+- TypeScript
 - Vite
 - React
 - Fetch API
