@@ -1,9 +1,14 @@
-# React TypeScript Starter Pack
+# The project was created with Vite + TypeScript.
 
-To use this template click `Use this template`
+[Demo](https://vasyl-zhyliakov.github.io/list-of-posts-redux/)
 
-### Available Scripts
+# Technologies used
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- HTML5
+- CSS3
+- Sass(SCSS)
+- BEM methodology
+- JavaScript
+- Vite
+- React
+- Redux Toolkit
